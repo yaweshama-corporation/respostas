@@ -1,0 +1,4 @@
+public int retornaPares(int[][])
+p = new int[2] // aqui dentro vai o numero de colunas mas nao sei como pegar isso, ajudem por favor
+ for(int i=0;i<m.length;i++)
+  //sei que para saber se e par o resto deve ser 0 , por exemplo m%2 == 0;//
